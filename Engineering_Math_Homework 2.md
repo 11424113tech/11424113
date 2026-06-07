@@ -1,5 +1,4 @@
-# Engineering Mathematics Homework 2
-
+# Engineering_Math_Homework 2
 ## Problem (3)
 
 Solve the differential equation using the Laplace transform:
